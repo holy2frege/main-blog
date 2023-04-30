@@ -249,6 +249,12 @@
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: article
 :END:
+<2023-04-30 Sun>
+**** 개요
+난 이미 blog를 만들었고, 원래의 목적인 once write, apply multi uses?가
+되는지 확인하고 싶었다. 그래서 내가 blog를 작성하면서 기록한 문서를
+그냥 가지고 왔다. 제대로 html로 이쁘게 되는가? 안된다. 내가 사용하는
+org요소들에 맞춰 css처리를 해야 한다. 이것도 일이다.
 **** 시작
 main blog를 만들기로 했다. holy2frege라는 github id를 만들었다. 2개의
 repo를 만들었다. main-blog라는 repo와
