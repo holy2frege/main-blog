@@ -240,11 +240,13 @@ header small{
 @media (min-width: 320px) and (max-width: 480px) {
     body{
 	width:330px;
+	overflow-x: hidden;
     }
     header {
 	display: block;
 	border-bottom: 1px #228 solid;
 	height: 80px;
+	width:330px;
 
     }
     header h1{
@@ -255,13 +257,13 @@ header small{
 	margin-top:0px;
     }
     #outline-container-main{
-	overflow: none;
 	display:block;
 	height:100%
 
     }
     #content{
 	height: 100%;
+	width:330px;
     }
     
     #aside{
