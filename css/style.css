@@ -295,6 +295,7 @@ header small{
     }
     #outline-container-page{
 	display:block;
+	width:340px;
     }
     #postamble{
 	width: 330px;
