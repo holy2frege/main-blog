@@ -3,7 +3,7 @@
 #+EMAIL: hoyoul.park@gmail.com
 #+DATE: 2023-04-25
 #+HTML: <header>
-#+HTML: <a href="http://frege2godel.me"><img src="./img/mylogo.png" alt="My Logo"></a> <h1><span>H</span>oly <span>F</span>rege</h1> <small>G.frege를 너무 사랑하는 holy가...</small>
+#+HTML: <a href="http://frege2godel.me"><img src="./img/mylogo.png" alt="My Logo"><h1><span>H</span>oly <span>F</span>rege</h1></a>  <small>G.frege를 너무 사랑하는 holy가...</small>
 #+HTML: </header>
 # -------------[header]--------------
 # header는 Title과 subtitle을 가져와서 자동으로 만든다.
