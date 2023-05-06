@@ -255,6 +255,7 @@ header small{
 	margin-top:0px;
     }
     #outline-container-main{
+	overflow: none;
 	display:block;
 	height:100%
 
