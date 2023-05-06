@@ -238,6 +238,9 @@ header small{
 ##Screen = 320px에서 479px 사이
 */
 @media (min-width: 320px) and (max-width: 480px) {
+    body{
+	width:330px;
+    }
     header {
 	display: block;
 	border-bottom: 1px #228 solid;
@@ -272,6 +275,9 @@ header small{
 	white-space: normal;
 	width:330px;
 	
+    }
+    .outline-4 h4{
+	width:330px;
     }
     .outline-4 ul{
 	padding-left: 10px;
