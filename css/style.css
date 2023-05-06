@@ -296,6 +296,7 @@ header small{
     #outline-container-page{
 	display:block;
 	width:340px;
+	margin-right:50px;
     }
     #postamble{
 	width: 330px;
