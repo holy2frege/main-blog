@@ -1,0 +1,5 @@
+(undo-tree-save-format-version . 1)
+"e6470136953ef52be33e779fbd5d33ea53c2fd69"
+[nil nil nil nil (25783 57147 157999 0) 0 nil]
+([nil current ((#("I" 0 1 (wrap-prefix #("        " 0 6 (face org-indent) 6 8 (face org-indent)) line-prefix #("      " 0 6 (face org-indent)) fontified t)) . 692) (t 25783 57115 394039 662000)) nil (25783 57147 157995 0) 0 nil])
+nil

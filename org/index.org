@@ -30,7 +30,7 @@
 </h2>
 #+end_export
 - I'm a computer scientist
-- emacs enthusiast anId
+- emacs enthusiast and
 - keyboard lover.
 - living in jeju island
 *** 
