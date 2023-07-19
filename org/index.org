@@ -91,12 +91,15 @@
 :PROPERTIES:
 :CUSTOM_ID: page
 :END:
-*** test <2023-04-29 Sat>
+*** test <2023-07-19 Wed>
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: article
 :END:
 컴퓨터를 다시 깔았다. 2014 macbook으로 무언가를 한다는건 너무나도
-벅찬일이다.
+벅찬일이다. multi git 계정을 mac에서 사용하면 불편하다. osxkeychain이
+git 인증 helper로 사용되기 때문인거 같다. git helper를 store로 바꾸면
+편하지 않을까? 물론 평문의 PAT는 위험하긴 하지만, worm gpt도 나와서
+이제 해킹은 누구나 할수 있는 일이 되서, 맥북도 안전하지 않을텐데...
 
 *** 세뇌 <2023-04-29 Sat>
 :PROPERTIES:
