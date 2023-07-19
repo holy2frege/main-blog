@@ -91,6 +91,13 @@
 :PROPERTIES:
 :CUSTOM_ID: page
 :END:
+*** test <2023-04-29 Sat>
+:PROPERTIES:
+:HTML_HEADLINE_CLASS: article
+:END:
+컴퓨터를 다시 깔았다. 2014 macbook으로 무언가를 한다는건 너무나도
+벅찬일이다.
+
 *** 세뇌 <2023-04-29 Sat>
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: article

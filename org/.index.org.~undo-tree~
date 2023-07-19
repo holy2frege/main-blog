@@ -1,5 +1,19 @@
 (undo-tree-save-format-version . 1)
-"e6470136953ef52be33e779fbd5d33ea53c2fd69"
+"b7c5f097716bed29c12ab8410fb9ce3cdac1805b"
 [nil nil nil nil (25783 57147 157999 0) 0 nil]
-([nil current ((#("I" 0 1 (wrap-prefix #("        " 0 6 (face org-indent) 6 8 (face org-indent)) line-prefix #("      " 0 6 (face org-indent)) fontified t)) . 692) (t 25783 57115 394039 662000)) nil (25783 57147 157995 0) 0 nil])
+([nil nil ((#("I" 0 1 (wrap-prefix #("        " 0 6 (face org-indent) 6 8 (face org-indent)) line-prefix #("      " 0 6 (face org-indent)) fontified t)) . 692) (t 25783 57115 394039 662000)) nil (25783 57147 157995 0) 0 nil])
+([nil nil ((1830 . 1831) (t 25783 59187 378992 30000)) nil (25783 61183 821288 0) 0 nil])
+([nil nil ((nil rear-nonsticky nil 1903 . 1904) (nil fontified nil 1903 . 1904) (nil fontified nil 1898 . 1903) (nil fontified nil 1897 . 1898) (nil fontified nil 1890 . 1897) (nil fontified nil 1889 . 1890) (nil fontified nil 1868 . 1889) (nil fontified nil 1867 . 1868) (nil fontified nil 1855 . 1867) (nil fontified nil 1854 . 1855) (nil mouse-face highlight 1853 . 1854) (nil keymap (keymap (follow-link . mouse-face) (mouse-3 . org-find-file-at-mouse) (mouse-2 . org-open-at-mouse)) 1853 . 1854) (nil fontified nil 1853 . 1854) (nil mouse-face highlight 1838 . 1853) (nil keymap (keymap (follow-link . mouse-face) (mouse-3 . org-find-file-at-mouse) (mouse-2 . org-open-at-mouse)) 1838 . 1853) (nil fontified nil 1838 . 1853) (nil fontified nil 1835 . 1838) (nil fontified nil 1834 . 1835) (nil fontified nil 1833 . 1834) (nil fontified nil 1831 . 1833) (1831 . 1904)) nil (25783 61183 821287 0) 0 nil])
+([nil nil ((#("뇌" 0 1 (face org-level-3 fontified t wrap-prefix #("***** " 0 2 (face org-indent) 2 6 (face org-indent)) line-prefix #("**" 0 2 (face org-indent)))) . 1835) (#("세" 0 1 (face org-level-3 fontified t wrap-prefix #("***** " 0 2 (face org-indent) 2 6 (face org-indent)) line-prefix #("**" 0 2 (face org-indent)))) . 1835)) nil (25783 61183 821284 0) 0 nil])
+([nil nil ((1835 . 1836)) nil (25783 61183 821283 0) 0 nil])
+([nil nil ((1836 . 1837)) nil (25783 61183 821282 0) 0 nil])
+([nil nil ((#("ㅅ" 0 1 (face org-level-3 fontified t wrap-prefix #("***** " 0 2 (face org-indent) 2 6 (face org-indent)) line-prefix #("**" 0 2 (face org-indent)))) . -1835) (undo-tree-id25 . -1) (#("ㄷ" 0 1 (face org-level-3 fontified nil wrap-prefix #("***** " 0 2 (face org-indent) 2 6 (face org-indent)) line-prefix #("**" 0 2 (face org-indent)))) . -1836) 1837) nil (25783 61183 821281 0) 0 nil])
+([nil nil ((1835 . 1839)) nil (25783 61183 821279 0) 0 nil])
+([nil nil ((1906 . 1915)) nil (25783 61183 821278 0) 0 nil])
+([nil nil ((1915 . 1934)) nil (25783 61183 821278 0) 0 nil])
+([nil nil ((1934 . 1947)) nil (25783 61183 821277 0) 0 nil])
+([nil nil ((#("ㄷ" 0 1 (wrap-prefix #("      " 0 6 (face org-indent)) line-prefix #("      " 0 6 (face org-indent)) fontified nil)) . -1946) 1947) nil (25783 61183 821276 0) 0 nil])
+([nil nil ((1946 . 1955)) nil (25783 61183 821275 0) 0 nil])
+([nil nil ((#(" " 0 1 (wrap-prefix #("       " 0 6 (face org-indent) 6 7 (face org-indent)) line-prefix #("      " 0 6 (face org-indent)) fontified t)) . -1949) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1) (undo-tree-id15 . -1) (undo-tree-id16 . -1) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) (undo-tree-id22 . -1) (undo-tree-id23 . -1) (undo-tree-id24 . -1) (nil fontified nil 1948 . 1949) (nil wrap-prefix #("      " 0 6 (face org-indent)) 1948 . 1949) (1948 . 1949) 1955) nil (25783 61183 821273 0) 0 nil])
+([nil current ((1955 . 1956)) nil (25783 61183 821225 0) 0 nil])
 nil
