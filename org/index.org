@@ -83,7 +83,7 @@
 
 #+begin_export html
 <a href="https://braindump.frege2godel.me/"> My Knowledge Base (digital garden) </a><br>
-<a href=""> My Books </a><br>
+<a href="https://portfolio.frege2godel.me"> My Portfolio </a><br>
 <a href=""> sending email </a><br>
 #+end_export
 # -------------[page]--------------  
