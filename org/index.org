@@ -91,7 +91,7 @@
 :PROPERTIES:
 :CUSTOM_ID: page
 :END:
-*** 취직 
+*** 취직 <2023-07-30 Sun>
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: article
 :END:
