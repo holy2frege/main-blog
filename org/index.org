@@ -138,28 +138,37 @@ identity가 있는 사람이다. 시중의 평가는 교과서를 외워서 점�
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: article
 :END:
-**** TODO 게임을 만들것이다. 단순한 게임 -> 네트웍게임 -> Reinforcement 실험.
+**** DOING 게임을 만들것이다. 단순한 게임 -> 네트웍게임 -> Reinforcement 실험.
   이 과정을 좀 잘 정리해서 portfolio페이지도 다시 만들어서 정리할 것이다.
+  - <2023-08-07 Mon> matter.js 공부중
+
 **** TODO lorem ipsum korean -> 형태소 분석(고전적인 NLP) -> GAN을 사용
   NLP를 한번 해보고 싶다. GAN도...
-**** TODO 슈퍼마리오-> reinforcement learning
+**** DOING 슈퍼마리오-> reinforcement learning
   아마 silver 논문인가...여튼 이것도 보여주기에 좋은 소스.
+  - <2023-08-07 Mon> 자료찾는중.
+**** DOING programmmers sql 고득점 다풀기 (생각외로 어렵다.)
+- <2023-08-07 Mon> [[https://braindump.frege2godel.me/posts/sql_programmers_sql_high_score2/][select문]]
+
 **** TODO 민호가 얘기한 LSTM 주식 예측...시간되면 이것도..
-**** TODO programmmers sql 고득점 다풀기 (생각외로 어렵다.)
-**** TODO 백준 알고리즘
+
+**** DOING 백준 알고리즘
   골드정도 나는 coding test를 LG cto들어갈때 보고 본적이 없다. leet
-  code는 좀 플어봤지만.. 한국에선 백준을 푼다고 한다. 
+  code는 좀 플어봤지만.. 한국에선 백준을 푼다고 한다.
+  - <2023-08-07 Mon>  [[https://github.com/hoyoul/boj_2023][github 주소]]
 **** TODO kaggle 랭킹
 kaggle 랭킹에 진입하면 취직하는데 도움이 될듯.
-**** TODO crawling
+**** DOING crawling
 dc매크로 만들어서 test, 고전적인 크롤링 작업들. 이런걸로 portfolio를
 할순 없을꺼 같고, 좀 더 쌈빡한게 있다면 구현하고 portfolio에도 넣자.
-**** TODO ios app
+- <2023-08-07 Mon> 현재 공부중: 어느정도 정리되면 link를 건다.
+**** DOING ios app
 내가 ios app을 안 만드는 이유는 macbook이 너무 오래되서 지원이 끊겼기
-때문이다. xcode는 설치되어 있지만, apple에서 지원하지 않는다. app을
+때문이다. xcode는 설치되어 있지만, apple에서 지원하지 않는다. a pp을
 만들 수 없다. 또한 나는 현재 ml과 deep learning을 좀 보고 있다. 시간도
 없고, swift를 모른다. 이걸 할려면 1-2달의 시간이
 필요하다. 조금씩이라도 해야할 듯하다.
+- <2023-08-07 Mon> xcode 재설치, 공부하고 자료 정리 하겠음.
 
   
 *** 취직2 <2023-08-02 Wed>
