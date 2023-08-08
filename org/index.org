@@ -177,7 +177,8 @@ page는 생각나는것들 그냥 쓰는 page...정리 안한 page라면, 이것
 정리하고 가다듬어서, book이나 portfolio로 옮긴다는 목적이 있다. 그런데
 이 page는 개인생각, todo 그냥 짬뽕이다. 이럴바엔 todo page도 만들어서
 분리하는게 좋을 듯하다.
-  
+**** TODO 가장 간단한 block chain만들기
+**** TODO webrtc 화상채팅 만들기
 *** 취직2 <2023-08-02 Wed>
 :PROPERTIES:
 :HTML_HEADLINE_CLASS: article
