@@ -132,7 +132,7 @@
 # 구현하면 그걸로 1등인것이다. 내가 남과 다름을 보여줄 수 있다는건,
 # 천재라는 사람들의 특징이기 때문이다. 그럼 나는? 나는 중간이다. 뭘해도
 # 중간은 한다.
-*** inside java2 virtual machine
+*** inside java2 virtual machine <2023-08-13 Sun>
 **** grade: 별 4개
 #+CAPTION: code
 #+NAME: code
@@ -153,7 +153,7 @@ interpreter를 만들기도 했다. 그 때 참고했던 책이다. 이 책은 �
 좋았다. assembly수준으로 알려주기 때문이다. 나는 그 때
 생각했었다. 나보다 java를 더 많이 아는 사람은 없다.라고...나는 말하고
 바로 코딩했다. 생각의 속도와 코딩의 속도가 같을때의 희열을
-느꼈다. design pattern도 달달 외우고 다녔다. GOF(Gans of Four)라고
+느꼈다. design pattern도 달달 외우고 다녔다. GOF(Gangs of Four)라고
 원래는 중국 모택동 사후 4인방을 말하지만, design pattern에도 GOF가
 있다. 나는 디자인 패턴도 좋아했다. 그렇다가 삼성에 들어갔고, 나는
 유학을 떠났다. 세상은 바뀌었다. java는 예전의 c++처럼 뒷방 늙은이가
