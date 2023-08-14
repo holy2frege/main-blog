@@ -132,10 +132,27 @@
 # 구현하면 그걸로 1등인것이다. 내가 남과 다름을 보여줄 수 있다는건,
 # 천재라는 사람들의 특징이기 때문이다. 그럼 나는? 나는 중간이다. 뭘해도
 # 중간은 한다.
-*** inside java2 virtual machine <2023-08-13 Sun>
-**** grade: 별 4개
+*** how to solve it <2023-08-14 Mon>
+**** grade: 별 4개 ~ 무한대
 #+CAPTION: code
 #+NAME: code
+#+attr_html: :width 600px
+#+attr_latex: :width 100px
+[[../img/howtosoleveit.png]]
+
+알고리즘의 시작. G. POLYA 교수를 무척 좋아한다. 문제를 풀면 문제가
+무엇인지를 알아야 한다. 문제가 무엇이고 어떤 단계로 풀어야 하는지를
+설명한다. 데카르트가 한 방법과 heuristic한 방법을 설명한다. 모든
+방법엔 절차가 있다. 코테와는 다른 접근법이다. 그런데 코테는 subset에
+해당하기 때문에 How to solve it의 general한 접근법은 더 많은 상상력을
+쏟게 만든다. 이책은 체화할 필요가 있는 책이고, 지식보단 지혜에 관한
+책이다. 별4개의 평점은 이 책을 겉핣기로 읽어도 4이고 G.Polya의
+머리속으로 들어간다면 무한대의 평점을 줄 수 있는 책이다.
+
+*** inside java2 virtual machine <2023-08-13 Sun>
+**** grade: 별 4개
+#+CAPTION: java
+#+NAME: java
 #+attr_html: :width 600px
 #+attr_latex: :width 100px
 [[../img/java.png]]
