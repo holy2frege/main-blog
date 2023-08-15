@@ -136,7 +136,7 @@
 # 서울 vs 제주, 아무래도 내가 있어야할 곳은 서울인가? 개발자가
 # 개발자를 알아보는건데, 음...누가 그랬다. 형은 emacs 쓰는거 하나만으로도
 # guru아닌가요? 그래? 아는 사람은 아는거다.
-*** LogiComics
+*** LogiComics <2023-08-15 Tue>
 **** grade: 별 4개 
 #+CAPTION: logiccomics 
 #+NAME: logiccomics
