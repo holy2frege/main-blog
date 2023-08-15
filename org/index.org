@@ -136,6 +136,32 @@
 # 서울 vs 제주, 아무래도 내가 있어야할 곳은 서울인가? 개발자가
 # 개발자를 알아보는건데, 음...누가 그랬다. 형은 emacs 쓰는거 하나만으로도
 # guru아닌가요? 그래? 아는 사람은 아는거다.
+*** LogiComics
+**** grade: 별 4개 
+#+CAPTION: logiccomics 
+#+NAME: logiccomics
+#+attr_html: :width 600px
+#+attr_latex: :width 100px
+[[../img/logiccomix.png]]
+
+computer sceince를 배운다는 것은 역사를 배우는 것과 같다. Aristotle의
+organon으로 부터 liebniz, descarte, cantor, russell, frege, godel,
+turing, shannon, von neumann, john mcCarthy, herbert simon, marvin
+minski에서, 지금은 hinton에 이르기까지의 수많은 cs의 역사속 인물들과
+이론을 배우는 것이다. 지금은 A.I 시대다. Inductive reasoning의
+시대다. 그러나 과거의 cs는 deductive reasoning의 시대였고 axiom과 rule
+of inference의 시대였다. 과거 cs의 역사를 알려주는 책이다. 쉬운
+생활영어로 쓰여졌다곤 하나, 내겐 생소한 단어와 문장들이 많았다. 만화는
+고퀄리티를 자랑한다. 스토리는 20c의 수리논리학의 대 변혁기 한복판에
+있었던 Bertrand Russell의 일대기라고 봐도 된다. 그를 중심에 놓고
+수많은 역사속 인물들이 까메오로 등장한다. FOL의 창시자. 내가 제일
+좋아했었던 G.Frege가 등장한다. cs가 어떤 학문이였는지를 알기 위해선
+이책이 도움이 될것이다. 솔직히 나는 다 알고 있던 내용이라서 새로운
+내용은 하나도 없었다. 이책은 내가 대학원에서 한참 turing과 괴델에
+빠져있을때 도서관에서 본 책이고, 한국에 올때 사가지고 왔다. 왜냐면
+한국에서 안파는 책이였다. 애착보다는 고퀄의 만화책이면서 내가 좋아하는
+내용이 있기 때문이다. 별4개보다 3개반이여야 하나. 미국에서 내가 가져온
+책이라 4개를 줬다.
 
 *** how to solve it <2023-08-14 Mon>
 **** grade: 별 4개 ~ 무한대
