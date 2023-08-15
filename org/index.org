@@ -140,18 +140,19 @@
 어제 면접을 봤다. 누가 물어봤다. 지도에서 위도 경도를 블라블라..여튼
 내 포트폴리오에 지도와 마커를 표현한게 있는데, 이걸 어떻게 했냐고
 물어보는 듯했다. 이게 naver map api인지 kakao였는지, 구글이였는지
-기억이 잘 안났다. 그리고 이런거 기억할 필요가 없다. 어차피, api는 다
-주어지기 때문에 설명서 보고 사용하면 되는 것이다. 그래서 그냥
-api사용했는데요.란 식으로 대답했다. 너무 성의 없었나? 그냥 점심먹고
-한번 해봤다.
+기억이 잘 안났다.그래서 그냥 map api사용했는데요.란 식으로
+대답했다. 너무 성의 없었나? 그냥 점심먹고 한번 해봤다.
 
 #+begin_export html
 <video width="320" height="240" controls>
-  <source src="../img/map1.mp4" type="video/mp4">
+  <source src="../img/map1.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 #+end_export
 
+내가 한것은 map을 보여주고 marker와 overlay로 정보를
+보여줬다. 여기에는 물론 db에서 저장된 위경도를 가져와서
+보여준다. 이벤트 처리도 다하고...그런식이다.
 
 *** LogiComics <2023-08-15 Tue>
 **** grade: 별 4개 
