@@ -136,6 +136,45 @@
 # 서울 vs 제주, 아무래도 내가 있어야할 곳은 서울인가? 개발자가
 # 개발자를 알아보는건데, 음...누가 그랬다. 형은 emacs 쓰는거 하나만으로도
 # guru아닌가요? 그래? 아는 사람은 아는거다.
+*** The organon <2023-08-18 Fri>
+**** grade: 별 -개
+#+CAPTION: mathlogic
+#+NAME: mathlogic
+#+attr_html: :width 600px
+#+attr_latex: :width 100px
+[[../img/organon.png]]
+
+난 현재 인문학이라는 분야는 그냥 먹고 살만한 지식인들이 떠들어댄
+뻘소리들의 모음이라고 생각한다. 왜냐면 현재 인문학의 핵심적 요소들은
+과학이 다 가져가 버렸기 때문이다. 하지만, 옛날에 인문학자들은
+수학자이며, 화학자, 물리학자, 철학자들이였다. 그들을 수학이나 화학
+물리같은 카테고리로 묶는건 의미가 없다. 현대에서나 묶지 옛날에는
+그들은 단지 logic과 math를 다루는 사람들이였을 뿐이다. domain만 다를
+뿐이다. logic은 logos를 뜻한다. logos는 말이다. 말은 머리속의 생각을
+말한다. logic은 머리속의 생각을 나타내고 생각을 나타내는 도구로 말을
+사용한다. 그 도구를 나타내는 라틴어가 organon이다. 이것은 logic의
+시작이며, 어떻게 보면 끝도 보여준다. 내가 생각했을때 Aristotle은 다
+말했다. 다만 구체화 한것은 G.Boole, G.Frege다. Aristotle이 만든 부지에
+G.Boole과 G.Frege라는 엄청난 인물들이 건물을 만들어 냈고, 지금의 모든
+과학자들은 그 건물에서 놀고 있을 뿐이다. 물론 수학은 다른
+영역이다. 하지만 수학과 논리는 같다라고 말할수도 있는게, 수학의
+foundation인 set theory 어떻게 보면 number theory와 logic을 합치려는
+20C의 노력의 결과 성공했고, 그래서 logic으로 arithematic을
+나타낸다. 그래서 우리는 programming을 할 수 있는 것이다. 우리가 흔히
+말하는, A.church, godel, turing, vonn neumann이 했던일이 그런일을 한
+사람들이다. chruch numerals, godel number, 또 뭐드라 기억이
+안난다. 여튼 괴델은 recursion을 사용해서 0,1,2을 나타낸다. church는
+lambda로 0,1,2,3을 나타낸다. turing은 description number라고 해서
+universal turing machine에서 tape로 숫자를 나타냈음을
+보여줬다. turing의 논문은 진짜 허덜덜이다. 여담이긴 하지만, c의
+statement의 끝은 ;이다. 왜냐? turing 논문에 statement의 끝은 ;이고
+그것에 대한 legacy다. 헛소리를 많이 했는데, 이 책의 평점은 - 다. 왜냐,
+내가 평가를 할 책이 아니다. 나는 이책을 2번 봤다. 이해하지 못해도 그냥
+봤다. 지금도 이해가 안되는 부분이 너무 많다. posterior전까지는 예전에
+이해를 했던거 같다. 영어는 쉬운 편이고 읽기도 쉽고, 옛날 책 특유의
+section numbering이 되어 있다. 다시 봐야 하는데, 쉽지 않다.
+
+
 *** 수리논리와 집합론 입문 <2023-08-17 Thu>
 **** grade: 별 4개
 #+CAPTION: mathlogic
