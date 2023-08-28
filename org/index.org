@@ -82,8 +82,8 @@
 #+end_export
 
 #+begin_export html
-<a href="https://braindump.frege2godel.me/"> My Knowledge Base (digital garden) </a><br>
-<a href="https://portfolio.frege2godel.me"> My Portfolio </a><br>
+<a href="https://bd.frege2godel.me/"> My Knowledge Base (digital garden) </a><br>
+<a href="https://pf.frege2godel.me"> My Portfolio </a><br>
 <a href=""> sending email </a><br>
 #+end_export
 # -------------[page]--------------  
